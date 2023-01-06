@@ -85,7 +85,7 @@ class LogicGate:
         """
         if not operator or operator not in GATES:
             raise ValueError("Operator must be valid")
-        self.operator = operator
+        self.operator = GATES[operator]
 
     def __str__(self):
         return (
