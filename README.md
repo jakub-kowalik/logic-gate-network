@@ -1,7 +1,14 @@
 # Logic gate network
 
 This is a simple logic gate network implementation in python.
-It let's users create logic gates and connect them together to create a network and feed forward data through it.
+It lets users create logic gates and connect them together to create a network and feed forward data through it.
+Currently, the network supports the following gates:
+- AND
+- OR
+- XOR
+- NOT
+- NAND
+- NOR
 
 ## Requirements
 
