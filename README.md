@@ -21,4 +21,6 @@ This project also needs `numpy` to run.
 
 ## Usage
 
-Example of how one can use this project is presented in `example.ipynb` notebook.
+Example of how one can use this project is presented in `example.ipynb` notebook. 
+
+**_Note:_** to run this example, one need to also install `jupyter`.
